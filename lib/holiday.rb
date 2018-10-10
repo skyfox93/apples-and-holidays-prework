@@ -84,7 +84,7 @@ def all_holidays_with_bbq(holiday_hash)
       end
     end
  end
- puts with_bbq.inspect
+ with_bbq
 end
 
 all_holidays_with_bbq( {
